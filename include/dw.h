@@ -9,8 +9,8 @@ public:
   int get_y() const;
 
 private:
-  int x_;
-  int y_;
+  int m_x;
+  int m_y;
 };
 
 #endif
